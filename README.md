@@ -1,4 +1,4 @@
-#MOCAT
+# MOCAT
 The proposed framework exhibits superior performance in disease classification and biomarker discovery, establishing itself as a robust and versatile tool for the analysis of multi-layer biological data. 
 This study highlights the significance of elaborated designed deep learning methodologies in dissecting complex disease phenotypes and improving the accuracy of disease predictions.
 # Requirment
