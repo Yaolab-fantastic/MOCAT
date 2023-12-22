@@ -20,6 +20,8 @@ pandas
 # Usage
 Get the result by running main.py, some model parameters have been provided for reference only.
 
+The biomarker results of a single experiment are for reference only and do not represent the final result.
+
 # Disclaimer
 This tool is for research purpose and not approved for clinical use.
 
